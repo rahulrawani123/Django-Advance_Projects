@@ -1,1 +1,1 @@
-PROJECT 1 - (BOXOFFICEHITS.COM)
+PROJECT 1 - (BoxOfficeHits)
